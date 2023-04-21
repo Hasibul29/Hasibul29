@@ -17,7 +17,7 @@
 </a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Hasibul29&label=Profile%20views&color=0e75b6&style=flat" alt="Hasibul29" /> </p>
 
-- 🌱 I’m currently learning **Java Spring Boot**
+- 🌱 I’m currently learning **NodeJS**
 
 - 📫 How to reach me **skhasibul.c17@gmail.com**
 
